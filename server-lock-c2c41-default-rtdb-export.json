@@ -1,0 +1,60 @@
+{
+  "accesslevel": {
+    "lockserial": {
+      "uuid": "owner",
+      "uuid1": "guest"
+    }
+  },
+  "authorizeaccess": {
+    "uuid": {
+      "lockserial": true
+    }
+  },
+  "lockentry": {
+    "11111": {
+      "address": "Kopargaon",
+      "lockname": "Main Server Room",
+      "mac": "00:21:13:02:0A:86",
+      "state": true
+    },
+    "12345": {
+      "address": "Nashik",
+      "lockname": "office",
+      "mac": "00:19:09:03:2C:9E",
+      "state": true
+    },
+    "lockserial": {
+      "address": "address",
+      "lockname": "lockname",
+      "mac": "65:32:34:34",
+      "state": true
+    }
+  },
+  "lockuser": {
+    "lockserial": {
+      "users": {
+        "uuid": "name"
+      }
+    }
+  },
+  "logs": {
+    "lockserial": {
+      "randomnumber": {
+        "timestamp": 62537,
+        "user": "jhgdua"
+      }
+    }
+  },
+  "userlink": {
+    "mobileno": {
+      "uuid": "name"
+    }
+  },
+  "users": {
+    "uuid": {
+      "email": "email",
+      "mobile": "097867875757",
+      "name": "name"
+    }
+  }
+}
